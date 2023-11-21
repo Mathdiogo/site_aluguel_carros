@@ -1,0 +1,99 @@
+
+
+.sedan-card {
+    background-color: #e6ffe621;
+    border: 1px solid #ffffff;
+}
+
+.card{
+    transition: transform .2s;
+    
+}
+.card:hover {
+    transform: scale(1.05); 
+  }
+
+
+body, h1, h2, h3, p, img, a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+
+     
+    background: linear-gradient(to right, #07ca5f, #008CBA);
+    
+        color: #ffffff;
+    
+}
+
+
+header {
+    padding: 1rem;
+}
+
+.navbar-brand:hover {
+    font-size: 1.5rem;
+    transform: scale(1.05);
+}
+
+
+.container {
+    margin-top: 2rem;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+
+.card-img-top {
+    max-width: 100%;
+    height: auto;
+}
+
+
+footer {
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+/* Estilos para os cards */
+.card {
+    background-color: #03284d; /* Cor de fundo escura (cinza escuro) */
+    color: #ffffff; /* Cor do texto branca */
+    transition: transform 0.2s;
+    border: none; /* Remover a borda padrão */
+}
+
+/* Estilos para o texto dentro dos cards */
+.card-text {
+    color: #ffffff; /* Cor do texto branca */
+}
+
+/* Estilos para os botões dentro dos cards */
+.btn-primary {
+    background-color: #007bff; /* Cor de fundo azul para botões "Ver Detalhes" */
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Cor de fundo azul mais escura ao passar o mouse */
+}
+
+.forms{
+    font-family: 'Arial', sans-serif;
+
+     
+    background: linear-gradient(to right, #07ca5f, #008CBA);
+    
+        color: #ffffff;
+    
+}
